@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this analysis repository and the associated article when available."
+type: software
+title: "National and geographic analyses of cardiovascular-kidney-metabolic syndrome"
+version: "1.0.0"
+authors:
+  - family-names: Zhou
+    given-names: Menghao
+  - family-names: Zhang
+    given-names: Fen
+  - family-names: Zhou
+    given-names: Bingluo
+  - family-names: Lv
+    given-names: Yiming

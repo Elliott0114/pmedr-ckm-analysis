@@ -1,0 +1,9 @@
+{
+  "snapshot.type": "explicit",
+  "use.cache": true,
+  "package.dependency.fields": [
+    "Imports",
+    "Depends",
+    "LinkingTo"
+  ]
+}

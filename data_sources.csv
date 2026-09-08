@@ -1,0 +1,20 @@
+file,source,source_url,bytes,sha256
+data/nhanes/ALB_CR_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,545440,fc011a80d14419884559372a3196f0a268b494f4f2fa972d00be1f3a23ba3c41
+data/nhanes/BIOPRO_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,2425520,912b345aad6b71d53a3bc299a7f3bb0d5530e9fa5b6e76d2d00103979861a476
+data/nhanes/BMX_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,1563200,44440c416d9ad709e8b1708a5975378ab4d5b18edc39eb5015c2ae7186500170
+data/nhanes/BPQ_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,409680,0acde3af0526c375942fe0735e3bf69a0422bcbc606f98a478209d2f47baa4b5
+data/nhanes/BPXO_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,696720,189aa9bed689d2c69cf8d780b01de85073276fea5694dd52cdf696229f9054a6
+data/nhanes/DEMO_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,2582160,ca4374a158b493b8b0163e1388da21d57a18d1b9cecff2aa4e2fa2bec494fe23
+data/nhanes/DIQ_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,847600,9535a023673ae869afae19d842d8679e06f6a464606ac15900686b41ef05090f
+data/nhanes/FSQ_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,3060080,3bbfe98f942378b61e78333959c7047e7ddc3df142d052098ccc13cc9797e491
+data/nhanes/GHB_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,174000,67aee0353160e2392dc0a33bece99b90764a630c76d82415ac4639105ad9dd03
+data/nhanes/GLU_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,129200,70f773ab37e3d8485341f32137e280e05b9279e5fe9b6f0362e4052d8fe9a201
+data/nhanes/HDL_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,259520,c1bb43df5ca366f470b411c043f4aee7ae6552a7f4bca1178bc87b24fb9a7300
+data/nhanes/HIQ_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,455840,dc380a8c8f36b3261998fa6df44267978818912bfd9518e9426156de9ee0d59f
+data/nhanes/HUQ_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,276080,55af27d92bfb1397a2a8b68a380a456ef4bd0d9c947cd2d8c2ef5a46863c61f4
+data/nhanes/KIQ_U_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,564320,2f114aeee6e9c7bc9381729b95a6685e28f35c3fbc26558ca8b9458bf4bf3437
+data/nhanes/MCQ_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,3294000,0889bb3eaa5adedf1a11c4af2d4776fc4c4c3cfdeea24fcedb77c4636b478f61
+data/nhanes/SMQ_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,651120,abbefebfa5585b1e19c079fa14be20c113a4649318070197214b258d05b93c50
+data/nhanes/TCHOL_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,259520,5c3312e555bb0706fd97cbd63fcbc9e78f00bda8d2d149732d9dd368169b25d3
+data/nhanes/TRIGLY_L.xpt,NHANES August 2021-August 2023,https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023,321840,77679864c33b98d9b6db528f3a0ac0a15ea34bde9731c04d23bc9801277975f4
+data/brfss/LLCP2023.XPT,BRFSS 2023,https://www.cdc.gov/brfss/annual_data/annual_2023.html,1205554400,3d3bf8ef5195bde227828ddc4c90745b76e8b304f8f5b9a043b6d99895fd1615

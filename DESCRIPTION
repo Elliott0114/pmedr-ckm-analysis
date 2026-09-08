@@ -1,0 +1,6 @@
+Package: pmedr.ckm.analysis
+Type: Project
+Title: National and Geographic Analyses of Cardiovascular-Kidney-Metabolic Syndrome
+Version: 1.0.0
+Imports: dplyr, haven, readr, survey, preventr, tidyr, jsonlite
+Encoding: UTF-8
